@@ -136,11 +136,7 @@ http://localhost:5000
 
 ## 👥 Team Members
 | Name | Roll Number | Section |
-|Ashish Ranjan|AP24110010778|"AA"|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|Tanmay shelke |AP24110010096|"Y"|
 
 ---
 
